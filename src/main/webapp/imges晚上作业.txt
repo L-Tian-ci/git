@@ -1,0 +1,5 @@
+1 使用快速配置springboot配置boot工程
+
+
+2 使用springboot添加springmvc框架，实现上传一张图片到本地某个
+目录；使用restful发送请求：（getOneU1/值）到后台如果值中包含字符，那么到达根目录下error.jsp否则到达根目录下success.jsp;通过restful发送请求：getOneU1/uid的值,如果uid长度不超过5那么写回User(uid,uid拼接uid长度)回页面，否则写回空的User信息
